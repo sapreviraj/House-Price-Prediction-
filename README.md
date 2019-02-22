@@ -91,7 +91,7 @@ Here's a brief description of the data fields-
 # Questions asked to the data  
 
 •	Which scales apply to our data set?  
-• How is the target variable distributed ?  
-• How are the variables correlated ?
-• What are the significant variables that can be used in our model ?  
+• How is the target variable distributed ?    
+• How are the variables correlated ?  
+• What are the significant variables that can be used in our model ?    
 • How do these variables affect the SalePrice ?  
